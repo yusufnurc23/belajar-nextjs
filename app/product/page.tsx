@@ -1,4 +1,4 @@
-export default function Product(){
+ export default function Product(){
 	return(
 		<div>
 			<h1>Halaman Product</h1>
